@@ -1,0 +1,27 @@
+IDataAccess
+
+DataAccess
+
+Ordercontroller
+
+check with postman
+
+
+--------------------------------------------------------------------
+rabbit-msgs
+Create IOrderCancelEvent
+
+------------------------------------------------------------------
+rabbt-saga
+Update saga state machine 
+
+-------------------------------------------------------------------
+update nuget packages
+------------------------------------------------------------------
+stock-ms
+update consumer with cancel
+
+-------------------------------------------------------------------
+order-ms
+create consumer
+add in startup file
